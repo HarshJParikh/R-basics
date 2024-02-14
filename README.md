@@ -6,9 +6,11 @@ Installation links:
 
 For Windows:
 R - https://cran.r-project.org/bin/windows/base/
+
 R studio - https://www.rstudio.com/products/rstudio/download/
 
 For Mac OS:
 R - https://cran.r-project.org/bin/macosx/
+
 R studio - https://www.rstudio.com/products/rstudio/download/
 
